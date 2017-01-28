@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('PB510_BiomAPI-v2.7.0.jar'))

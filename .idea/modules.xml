@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdhaarApplication.iml" filepath="$PROJECT_DIR$/AdhaarApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PB510_BiomAPI-v2.7.0/PB510_BiomAPI-v2.7.0.iml" filepath="$PROJECT_DIR$/PB510_BiomAPI-v2.7.0/PB510_BiomAPI-v2.7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PBScnr510-v2.0/PBScnr510-v2.0.iml" filepath="$PROJECT_DIR$/PBScnr510-v2.0/PBScnr510-v2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
